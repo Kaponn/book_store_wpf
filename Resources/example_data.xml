@@ -1,0 +1,268 @@
+<BookList>
+    <Book>
+    <InventoryNumber>14366</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Świat ogromnych.</Title>
+		<YearPublisher>Kraków 2015. Znak.</YearPublisher>
+		<Price>30</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14365</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Inwazja.</Title>
+		<YearPublisher>Kraków 2016. Znak.</YearPublisher>
+		<Price>30</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14364</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Cień smoka.</Title>
+		<YearPublisher>Kraków 2014. Znak.</YearPublisher>
+		<Price>30</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14363</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Gra.</Title>
+		<YearPublisher>Kraków 2013. Znak.</YearPublisher>
+		<Price>30</Price>
+	</Book>
+    <Book>
+		<InventoryNumber>14362</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Pojedynek.</Title>
+		<YearPublisher>Kraków 2012. Znak</YearPublisher>
+		<Price>30</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14361</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo.Olbrzym.</Title>
+		<YearPublisher>Kraków 2011.Znak.</YearPublisher>
+		<Price>30</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14360</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Tajemnice mostu.</Title>
+		<YearPublisher>Kraków 2014.Znak.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+    <Book>
+		<InventoryNumber>14359</InventoryNumber>
+		<Author>Maleszka Andrzej</Author>
+		<Title>Magiczne drzewo. Czerwone krzesło.</Title>
+		<YearPublisher>Kraków 2015. Znak.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14358</InventoryNumber>
+		<Author>Fitzpatrick Becca</Author>
+		<Title>BLACK ICE</Title>
+		<YearPublisher>Kraków 2014. otwarte</YearPublisher>
+		<Price>30</Price>
+	</Book>
+    <Book>
+		<InventoryNumber>14357</InventoryNumber>
+		<Author>Fitzpatrick Becca</Author>
+		<Title>finale</Title>
+		<YearPublisher>Kraków 2012. moondrive</YearPublisher>
+		<Price>30</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14356</InventoryNumber>
+		<Author>Szczygielski Marcin</Author>
+		<Title>Teatr niewidzialnych dzieci</Title>
+		<YearPublisher>Warszawa 2016 Latarnik.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14355</InventoryNumber>
+		<Author>Horst Jorn Lier</Author>
+		<Title>Operacja reklamówka</Title>
+		<YearPublisher>Poznań 2017 Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14354</InventoryNumber>
+		<Author>Horst Jorn Lier</Author>
+		<Title>Operacja posąg</Title>
+		<YearPublisher>Poznań 2016 Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14353</InventoryNumber>
+		<Author>Horst Jorn Lier</Author>
+		<Title>Operacja podmuch wiatru</Title>
+		<YearPublisher>Poznań 2016 Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+    <Book>
+		<InventoryNumber>14352</InventoryNumber>
+		<Author>Horst Jorn Lier</Author>
+		<Title>Operacja wyspa</Title>
+		<YearPublisher>Poznań 2016 Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+    <Book>
+		<InventoryNumber>14351</InventoryNumber>
+		<Author>Horst Jorn Lier</Author>
+		<Title>Operacja żonkil</Title>
+		<YearPublisher>Poznań 2015 Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14350</InventoryNumber>
+		<Author>Horst Jorn Lier</Author>
+		<Title>Operacja zachód słońca</Title>
+		<YearPublisher>Poznań 2015 Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+    </Book>     
+    <Book>
+		<InventoryNumber>14349</InventoryNumber>
+		<Author>Griffiths Andy</Author>
+		<Title>52- piętrowy domek na drzewie</Title>
+		<YearPublisher>Warszawa 2017. Nasza Księgarnia.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14348</InventoryNumber>
+		<Author>Griffiths Andy</Author>
+		<Title>39- piętrowy domek na drzewie</Title>
+		<YearPublisher>Warszawa 2017 . Nasza Księgarnia.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14347</InventoryNumber>
+		<Author>Griffiths Andy</Author>
+		<Title>26- piętrowy domek na drzewie</Title>
+		<YearPublisher>Warszawa 2016 Nasza Księgarnia.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14346</InventoryNumber>
+		<Author>Griffiths Andy</Author>
+		<Title>13- piętrowy domek na drzewie</Title>
+		<YearPublisher>Warszawa 2017. Nasza Księgarnia.</YearPublisher>
+		<Price>20</Price>
+    </Book>
+	<Book>
+		<InventoryNumber>14345</InventoryNumber>
+		<Author>Fombelle Timothee</Author>
+		<Title>Tobi. Oczy Eliszy.</Title>
+		<YearPublisher>Kraków 2015. Znak.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14344</InventoryNumber>
+		<Author>Świerzewska Ewa Świerzewski Łukasz</Author>
+		<Title>Wszystko dla klasy czyli historia pewnego pomysłu</Title>
+		<YearPublisher>Warszawa 2016. Grupa Wydawnicza Foksal.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14343</InventoryNumber>
+		<Author>Duncan Lois</Author>
+		<Title>Korytarzem w mrok</Title>
+		<YearPublisher>Warszawa 2016. Czarna owca.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14342</InventoryNumber>
+		<Author>Bright Paul i inni</Author>
+		<Title>Nowe przygody Kubusia Puchatka</Title>
+		<YearPublisher>Kraków 2017. Znak.</YearPublisher>
+		<Price>25</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14341</InventoryNumber>
+		<Author>Rowling J. K.</Author>
+		<Title>Baśnie Barda Beedie a</Title>
+		<YearPublisher>Poznań 2017. Media Rodzinne.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14340</InventoryNumber>
+		<Author>Jagiełło Joanna</Author>
+		<Title>Zielone martensy</Title>
+		<YearPublisher>Warszawa 2016. Nasza księgarnia.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14339</InventoryNumber>
+		<Author>Moccia Federico</Author>
+		<Title>Trzy metry nad niebem</Title>
+		<YearPublisher>Warszawa 2016. Wydawnictwo literackie.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14338</InventoryNumber>
+		<Author>Szczygielski Marcin</Author>
+		<Title>Tuczarnia motyli</Title>
+		<YearPublisher>Warszawa 2014. Wydawnictwo Bajka.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14337</InventoryNumber>
+		<Author>Szczygielski Marcin</Author>
+		<Title>Czarny młyn</Title>
+		<YearPublisher>Warszawa 2015. Latarnik.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14336</InventoryNumber>
+		<Author>Szczygielski Marcin</Author>
+		<Title>Za niebieskimi drzwiami</Title>
+		<YearPublisher>Warszawa 2016. Latarnik.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14335</InventoryNumber>
+		<Author>Szczygielski Marcin</Author>
+		<Title>Klątwa dziewiątych urodzin</Title>
+		<YearPublisher>Warszawa 2016. Wydawnictwo Bajka.</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14334</InventoryNumber>
+		<Author>Skarżycki Rafał</Author>
+		<Title>Hej Jędrek. Gdzie moja forsa.</Title>
+		<YearPublisher>Warszawa 2015. Nasza Księgarnia.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14333</InventoryNumber>
+		<Author>Skarżycki Rafał</Author>
+		<Title>Hej Jędrek Masz cykora</Title>
+		<YearPublisher>Warszawa 2016 Nasza Księgarnia</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14332</InventoryNumber>
+		<Author>Skarżycki Rafał</Author>
+		<Title>Hej Jędrek Masz cykora.</Title>
+		<YearPublisher>Warszawa 2016 Nasza Księgarnia.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14331</InventoryNumber>
+		<Author>Skarżycki Rafał</Author>
+		<Title>Hej Jędrek Kto tu rzadzi</Title>
+		<YearPublisher>Warszawa 2016 Nasza Księgarnia.</YearPublisher>
+		<Price>15</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14330</InventoryNumber>
+		<Author>Lincoln Peirce</Author>
+		<Title>Zapiski luzaka. Skazany na sukces</Title>
+		<YearPublisher>W-wa 2012 Nasza Księgarnia</YearPublisher>
+		<Price>20</Price>
+	</Book>
+	<Book>
+		<InventoryNumber>14329</InventoryNumber>
+		<Author>Lincoln Peirce</Author>
+		<Title>Zapiski luzaka. Natan idzie na całość</Title>
+		<YearPublisher>W-wa 2013 Nasza Księgarnia</YearPublisher>
+		<Price>20</Price>
+    </Book>
+    </BookList>

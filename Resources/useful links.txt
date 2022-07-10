@@ -1,0 +1,8 @@
+http://www.wpftutorial.net/Home.html - WPF tutorial
+http://www.blackwasp.co.uk/ - .NET Framework 
+https://docs.microsoft.com/en-us/learn/ - Microsoft learning platform FREE
+
+WPF libraries
+Prism - https://github.com/PrismLibrary/Prism
+MaterialDesignInXamlToolkit - https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+CefSharp - https://www.libhunt.com/r/CefSharp
